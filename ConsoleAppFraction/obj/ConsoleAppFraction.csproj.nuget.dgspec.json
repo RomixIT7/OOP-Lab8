@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleAppFraction\\ConsoleAppFraction.csproj": {}
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleAppFraction\\ConsoleAppFraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleAppFraction\\ConsoleAppFraction.csproj": {
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleAppFraction\\ConsoleAppFraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleAppFraction\\ConsoleAppFraction.csproj",
+        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleAppFraction\\ConsoleAppFraction.csproj",
         "projectName": "ConsoleAppFraction",
-        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleAppFraction\\ConsoleAppFraction.csproj",
+        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleAppFraction\\ConsoleAppFraction.csproj",
         "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleAppFraction\\obj\\",
+        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleAppFraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj": {
-                "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj"
+              "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj": {
+                "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj": {
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj",
         "projectName": "FractionLibrary",
-        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj",
+        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj",
         "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\obj\\",
+        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,3 +9,14 @@ C:\Users\userlenovo\Desktop\Моє навчання\Програмування\�
 C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\FractionLibrary\obj\Debug\net7.0\refint\FractionLibrary.dll
 C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\FractionLibrary\obj\Debug\net7.0\FractionLibrary.pdb
 C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\FractionLibrary\obj\Debug\net7.0\ref\FractionLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\bin\Debug\net7.0\FractionLibrary.deps.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\bin\Debug\net7.0\FractionLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\bin\Debug\net7.0\FractionLibrary.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\FractionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\FractionLibrary.AssemblyInfoInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\FractionLibrary.AssemblyInfo.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\FractionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\FractionLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\refint\FractionLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\FractionLibrary.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\FractionLibrary\obj\Debug\net7.0\ref\FractionLibrary.dll

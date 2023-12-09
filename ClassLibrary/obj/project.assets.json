@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

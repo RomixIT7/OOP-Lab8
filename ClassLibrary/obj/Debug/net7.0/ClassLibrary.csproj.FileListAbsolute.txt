@@ -9,3 +9,14 @@ C:\Users\userlenovo\Desktop\Моє навчання\Програмування\�
 C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
 C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
 C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\bin\Debug\net7.0\ClassLibrary.deps.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\bin\Debug\net7.0\ClassLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\bin\Debug\net7.0\ClassLibrary.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab8\OOP-Lab8\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll

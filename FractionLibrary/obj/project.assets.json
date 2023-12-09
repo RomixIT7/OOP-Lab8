@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj",
       "projectName": "FractionLibrary",
-      "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\FractionLibrary.csproj",
+      "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\FractionLibrary.csproj",
       "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\FractionLibrary\\obj\\",
+      "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\FractionLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

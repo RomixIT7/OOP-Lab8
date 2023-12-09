@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleProgram\\ConsoleProgram.csproj": {}
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleProgram\\ConsoleProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleProgram\\ConsoleProgram.csproj": {
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleProgram\\ConsoleProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleProgram\\ConsoleProgram.csproj",
+        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleProgram\\ConsoleProgram.csproj",
         "projectName": "ConsoleProgram",
-        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleProgram\\ConsoleProgram.csproj",
+        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleProgram\\ConsoleProgram.csproj",
         "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ConsoleProgram\\obj\\",
+        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ConsoleProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab8\\OOP-Lab8\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
